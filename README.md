@@ -175,7 +175,7 @@ On very minimal systems some checks will just be skipped with WARN messages.
 Clone the repo and make the script executable:
 
 ```bash
-git clone https://github.com/<your-user>/linux-priv-esc-audit.git
+git clone https://github.com/tflr/linux-priv-esc-audit.git
 cd linux-priv-esc-audit
 
 chmod +x linux-priv-esc-audit.sh
